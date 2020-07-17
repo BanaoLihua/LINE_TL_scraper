@@ -25,9 +25,9 @@ collection = db.banao1000
 
 
 #ユーザー情報
-login_ID = 'tati870@ezweb.ne.jp'
-login_pass = '16538701203'
-chromedriver_pass = 'C:/Users/hobby/chromedriver/chromedriver.exe'
+login_ID = '**********'
+login_pass = '**********'
+chromedriver_pass = 'C:/**********/chromedriver/chromedriver.exe'
 line_access_url = 'https://access.line.me/oauth2/v2.1/login?returnUri=%2Foauth2%2Fv2.1%2Fauthorize%2Fconsent%3Fscope%3Dopenid%2Bprofile%2Bfriends%2Bgroups%2Btimeline.post%2Bmessage.write%26response_type%3Dcode%26redirect_uri%3Dhttps%253A%252F%252Ftimeline.line.me%252Fapi%252Fauth%252Fauthorize%253FreturnUrl%253Dhttps%25253A%25252F%25252Ftimeline.line.me%25252Fuser%25252F_dVdyXDuefhwD5dJfZcuyq9iy2XJToflg-P4TZRA%26state%3Da17e520a1752b95c5dec5c6176bdd69f85010e393c91ab3079b31496ea98d42c%26client_id%3D1341209950&loginChannelId=1341209950&loginState=w9vNOgoBgNEXxm75vSiMQE#/'
 roop_count = 100
 

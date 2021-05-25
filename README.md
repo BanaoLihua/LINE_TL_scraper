@@ -1,2 +1,2 @@
 # LINE_TL_scraper
-line_tl_scraper
+LINEのタイムライン投稿を全件取得するターミナルアプリ
